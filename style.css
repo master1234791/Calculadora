@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: rgb(120, 230, 240);
+    background-image: url("cal.png");
+}
+.ibox{
+    width: 200px;
+    background-color: rgb(135, 255, 5);
+    margin-left: 20px;
+    border-radius: 50px;
+
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+#item{
+    border-radius: 50px;
+    background-color: rgb(5, 255, 125);
+}
+.grid img{
+    width: 10px;
+    height: 10px;
+}
+#resultado1{
+    border-style: double;
+    border-color: rgb(72, 2, 132);
+    border-width: 10px;
+}
+#resultado2{
+    border-style: double;
+    border-color: rgb(72, 2, 132);
+    border-width: 10px;
+}
+#resultado3{
+    border-style: double;
+    border-color: rgb(72, 2, 132);
+    border-width: 10px;
+}
+#resultado4{
+    border-style: double;
+    border-color: rgb(72, 2, 132);
+    border-width: 10px;
+}
